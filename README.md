@@ -45,6 +45,7 @@ The model achieves **balanced performance** across both compatibility classes wh
 
 
 # Output
+<img width="472" height="256" alt="recommendation list" src="https://github.com/user-attachments/assets/8d72fb2b-eaf2-4c9b-aacc-147d0a243840" />
+
 Prediction: 1 (Compatible)
 Confidence: 0.89
-<img width="472" height="256" alt="recommendation list" src="https://github.com/user-attachments/assets/c78bce37-cd59-4c48-b8c0-00ed5443e6e4" />
