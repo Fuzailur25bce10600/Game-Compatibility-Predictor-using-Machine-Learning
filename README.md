@@ -49,3 +49,31 @@ The model achieves **balanced performance** across both compatibility classes wh
 
 Prediction: 1 (Compatible)
 Confidence: 0.89
+
+## Key Insights
+- Hardware specifications strongly influence compatibility prediction  
+- Classification performed better than regression  
+- Data preprocessing significantly improved performance  
+- Balanced metrics are more meaningful than accuracy alone  
+
+## Limitations
+- Limited feature diversity  
+- Simplified hardware representation  
+- Possible edge-case prediction errors  
+
+## Future Improvements
+- Use advanced models such as Random Forest and XGBoost  
+- Apply feature engineering for better prediction  
+- Add recommended system requirements  
+- Build a user interface for predictions  
+
+## How to Run
+1. Open the notebook in Kaggle or Jupyter Notebook  
+2. Run all cells sequentially  
+3. Modify input values in the prediction section  
+
+## Tech Stack
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- Kaggle Notebook  
